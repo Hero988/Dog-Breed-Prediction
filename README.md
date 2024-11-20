@@ -56,6 +56,3 @@ The dataset is sourced from the [Dog Breed Identification](https://www.kaggle.co
 
 ## Contribution
 Contributions are welcome! Feel free to fork this repository, submit pull requests, or report issues.
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
