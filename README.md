@@ -34,7 +34,7 @@ pip install tensorflow keras pandas numpy matplotlib seaborn scikit-learn jupyte
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dog-breed-identification.git
+   git clone https://github.com/your-username/dog-breed.git
    cd dog-breed-identification
    ```
 2. **Download the dataset from Kaggle**:
